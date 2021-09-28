@@ -1,0 +1,13 @@
+--2021-09-28 13:51:08--  https://github.com/jumadi-cloud/Fundamental-Python/blob/main/Dataset/konsumen2.csv
+Resolving github.com (github.com)... 192.30.255.112
+Connecting to github.com (github.com)|192.30.255.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘konsumen2.csv.2’
+
+     0K .......... .......... .......... .......... .......... 4.08M
+    50K .......... .......... .......... .......... .......... 7.82M
+   100K .......... .......... .......... .......               91.5M=0.02s
+
+2021-09-28 13:51:08 (7.21 MB/s) - ‘konsumen2.csv.2’ saved [140833]
+
